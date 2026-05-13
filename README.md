@@ -1,0 +1,2 @@
+# derstakip
+Ders takip uygulaması
